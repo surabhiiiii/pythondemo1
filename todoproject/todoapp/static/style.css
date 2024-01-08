@@ -1,0 +1,18 @@
+.banner
+{
+    background-color:aquamarine;
+    width:90%;
+    height:100%;
+    margin-bottom:60px;
+}
+.banner-text
+{
+    top:50%;
+    left:20%;
+    position:absolute;
+    transform: transform;
+}
+.form-group
+{
+    bottom: 6px;
+}
